@@ -1,5 +1,5 @@
 # Awesome Computational Neuroscience
-An awesome list of computational neuroscience and computational cognitive science. I build this list only for my own use. I used to use bookmarks. But it is a bad way to organize things, I can hardly find what I want in my bookmark. 
+An awesome list of computational neuroscience and computational cognitive science. I build this list only for my own use. I used to use bookmarks. But it is a bad way to organize things, I can hardly find what I want. 
 
 Other useful [Computational neuroscience resources](http://neural-reckoning.org/comp-neuro-resources.html).
 
