@@ -198,6 +198,8 @@ Advance:
 - [HDDM](https://hddm.readthedocs.io/en/latest/) - A python toolbox for hierarchical Bayesian parameter estimation of the Drift Diffusion Model (via PyMC).
 - [Computational and Behavioral Modeling](https://payampiray.github.io/cbm) - CBM provides tools for hierarchical Bayesian inference
 - [rlssm](https://rlssm.readthedocs.io/en/latest/index.html) - A Python package for fitting reinforcement learning models, sequential sampling models, and combinations of the two, using Bayesian parameter estimation.
+- [RL_DDM](https://github.com/sjgershm/RL_DDM) - Reinforcement learning + drift-diffusion model repository.
+- [Bandits](https://github.com/bgalbraith/bandits) - Python library for Multi-Armed Bandits implements the following algorithms: Epsilon-Greedy, UCB1, Softmax, Thompson Sampling
 
 
 
@@ -205,6 +207,7 @@ Advance:
 
 - [Tianshou](https://tianshou.readthedocs.io/en/stable/index.html) - A reinforcement learning platform based on pure PyTorch.
 - [Variational Bayesian Monte Carlo](https://github.com/acerbilab/vbmc) - VBMC is an approximate inference method designed to fit and evaluate computational models with a limited budget of potentially noisy likelihood evaluations.
+- [BADS](https://github.com/acerbilab/bads) - BADS is a fast hybrid Bayesian optimization algorithm designed to solve difficult optimization problems, in particular related to fitting computational models
 
 
 
@@ -242,6 +245,7 @@ Advance:
 
 
 ## Summer School
+- [Marine Biological Laboratory](https://www.mbl.edu/education/advanced-research-training-courses/course-offerings)
 - [Cold Spring Harbor Asia](http://www.csh-asia.org/)
 - [Graduate Workshop in Computational Social Science at Santa Fe Institute](https://www.santafe.edu/engage/learn/programs/graduate-workshop-computational-social-science)
 
@@ -270,6 +274,7 @@ Intro:
 - [RSA Workshop](https://colab.research.google.com/drive/1UEtFr-oJisRzl8BmzbNdMZZ7-Of0gLcH?usp=sharing#scrollTo=WCGDnFNYIDGT)
 - [Quantitative Neuroscience](https://github.com/BlohmLab/NSCI801-QuantNeuro)
 - [Python for the practicing neuroscientist](https://elifesciences.org/labs/f779833b/python-for-the-practicing-neuroscientist-an-online-educational-resource)
+- [The Multi-Armed Bandit Problem and Its Solutions](https://lilianweng.github.io/posts/2018-01-23-multi-armed-bandit/)
 
 Advance:
 
@@ -294,6 +299,8 @@ Advance:
 - [Statistical models for neural data](https://www.youtube.com/watch?v=NFeGW5ljUoI&list=PL9YzmV9joj3FIkQwVcfj1VsLV_pj6Cwcr&index=4)
 - [M/EEG analysis with MNE](https://www.youtube.com/watch?v=t-twhNqgfSY)
 - [Neuroimaging and Data Science](http://neuroimaging-data-science.org/root.html)
+- [Meta-Learned Models of Cognition](https://github.com/marcelbinz/Meta-Learned-Models-of-Cognition)
+- [The Art and Science of Modeling Human Decision-Making](https://github.com/marcelbinz/The-Art-and-Science-of-Modeling-Human-Decision-Making)
 
 
 
@@ -321,6 +328,7 @@ Advance:
 - [Applied Causal Analysis](https://bookdown.org/paul/applied-causal-analysis/)
 - [Probabilistic language understanding](http://www.problang.org/)
 - [Modeling Agents with Probabilistic Programs](https://agentmodels.org/)
+- [Bandit Algorithms for Website Optimization](Bandit Algorithms for Website Optimization)
 
 
 
