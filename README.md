@@ -5,6 +5,8 @@ Other useful [Computational neuroscience resources](http://neural-reckoning.org/
 
 "DISCLAIMER: The contents of this list reflect my own personal interests and should not be taken as a recommendation or endorsement of any kind. Use of any information or resources provided in this list is at your own risk."
 
+## Contents
+
 * [Course](#course)
   + [Computational Neuroscience](#computational-neuroscience)
   + [Computational Cognitive Science](#computational-cognitive-science)
