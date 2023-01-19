@@ -10,6 +10,7 @@ An awesome list of computational neuroscience and computational cognitive scienc
 ### Neuroscience
 
 - [Neural Data Science](https://www.youtube.com/playlist?list=PL05umP7R6ij3SxudmSWFL_zGh0BMrRdrx) - Tübingen, Philipp Berens, 2021
+- [Introduction to Brain and Consciousness](https://www.youtube.com/playlist?list=PLw86EyOzTC2O-ANg5uj2yOAEqmN2kSm0d)
 
 
 
@@ -33,13 +34,14 @@ An awesome list of computational neuroscience and computational cognitive scienc
 
 ### Math
 
-- [Linear Algebra by Gilbert Strang](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) - MIT 18.06, Gilbert Strang, Spring 2005
+- [Linear Algebra](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) - MIT 18.06, Gilbert Strang, Spring 2005
 - [Linear Dynamical Systems](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B) - Stanford EE263, Stephen Boyd
 - [Control Theory Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m) - Steve Brunton
 - 
 
 ### Psychology
 - [Philosophical Psychology](https://meehl.umn.edu/video) - UMN, Paul Meehl, Winter 1989
+- 
 
 
 
@@ -49,7 +51,14 @@ An awesome list of computational neuroscience and computational cognitive scienc
 
 ## Package
 
+### Computational Neuroscience
+
+- [BrainPy](https://github.com/brainpy/BrainPy) - A flexible, efficient, and extensible framework for computational neuroscience and brain-inspired computation based on the JIT compilation
+
+
+
 ### AI
+
 - [Tianshou](https://tianshou.readthedocs.io/en/stable/index.html) - A reinforcement learning platform based on pure PyTorch.
 - 
 
@@ -64,9 +73,12 @@ An awesome list of computational neuroscience and computational cognitive scienc
 ## Lecture
 - [MIT CBMM](https://www.youtube.com/@MITCBMM)
 - [Cosyne Talks](https://www.youtube.com/channel/UCzOTbZTHTubFNjANAR33AAg)
+- [UCL NeuroAI](https://www.ucl.ac.uk/research/domains/neuroscience/ucl-neuroai)
+- [MRC Cognition and Brain Sciences Unit](https://www.youtube.com/@MRCCBU/videos)
+- [MRC Cognition and Brain Sciences Unit 2]([MRC Cognition and Brain Sciences Unit](https://www.youtube.com/@MRCCBU/videos))
 - [NeurIPS 2022](https://slideslive.com/neurips-2022)
 - [Meaning of Life Symposium](https://www.youtube.com/playlist?list=PLypiXJdtIca7i8IrNye4IenjnUCP9LF35)
-- 
+- [CCN 2017](https://www.youtube.com/@kendrickkay/videos)
 
 
 
