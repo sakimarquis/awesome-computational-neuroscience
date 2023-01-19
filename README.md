@@ -200,6 +200,7 @@ Advance:
 - [rlssm](https://rlssm.readthedocs.io/en/latest/index.html) - A Python package for fitting reinforcement learning models, sequential sampling models, and combinations of the two, using Bayesian parameter estimation.
 - [RL_DDM](https://github.com/sjgershm/RL_DDM) - Reinforcement learning + drift-diffusion model repository.
 - [Bandits](https://github.com/bgalbraith/bandits) - Python library for Multi-Armed Bandits implements the following algorithms: Epsilon-Greedy, UCB1, Softmax, Thompson Sampling
+- [NivTurk](https://nivlab.github.io/nivturk/) - Niv lab tools for securely serving and storing data from online computational psychiatry experiments.
 
 
 
@@ -301,6 +302,7 @@ Advance:
 - [Neuroimaging and Data Science](http://neuroimaging-data-science.org/root.html)
 - [Meta-Learned Models of Cognition](https://github.com/marcelbinz/Meta-Learned-Models-of-Cognition)
 - [The Art and Science of Modeling Human Decision-Making](https://github.com/marcelbinz/The-Art-and-Science-of-Modeling-Human-Decision-Making)
+- [NivStan](https://nivlab.github.io/nivstan/) - Recipes for cognitive modeling using Stan
 
 
 
@@ -332,6 +334,7 @@ Advance:
 
 ## Data
 
+- [OpenData](https://nivlab.github.io/opendata/) - A collection of publicly available behavioral datasets
 - [SenseLab](https://senselab.med.yale.edu/) - The SenseLab Project is a long-term effort to build integrated, multidisciplinary models of neurons and neural systems.
 - [CRCNS](https://crcns.org/data-sets) - Collaborative Research in Computational Neuroscience: Data sharing
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
