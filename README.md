@@ -258,7 +258,8 @@ Advance:
 
 ## Talk
 - [MIT CBMM](https://www.youtube.com/@MITCBMM)
-- [Cosyne Talks](https://www.youtube.com/channel/UCzOTbZTHTubFNjANAR33AAg)
+- [Cosyne](https://www.youtube.com/channel/UCzOTbZTHTubFNjANAR33AAg)
+- [CCN](https://www.youtube.com/@cognitivecomputationalneur7223/playlists)
 - [Harvard Machine Learning Foundations Group](https://mltheory.org/)
 - [Theoretical Neuroscience](https://www.youtube.com/@theoreticalneuroscience6062/videos)
 - [CogSci](https://www.youtube.com/@cogsciinterdisciplinarystu2501/videos)
