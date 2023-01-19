@@ -318,7 +318,6 @@ Advance:
 - [Introduction to Data Science](http://rafalab.dfci.harvard.edu/dsbook/)
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
   - [ISLR tidymodels labs](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html)
-
 - [Probabilistic Machine Learning](https://probml.github.io/pml-book/)
 - [Patterns, Predictions, and Actions](https://mlstory.org/)
 - [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/)
@@ -328,7 +327,6 @@ Advance:
 - [Applied Causal Analysis](https://bookdown.org/paul/applied-causal-analysis/)
 - [Probabilistic language understanding](http://www.problang.org/)
 - [Modeling Agents with Probabilistic Programs](https://agentmodels.org/)
-- [Bandit Algorithms for Website Optimization](Bandit Algorithms for Website Optimization)
 
 
 
