@@ -13,7 +13,7 @@ Other useful [Computational neuroscience resources](http://neural-reckoning.org/
   + [Reinforcement Learning](#reinforcement-learning)
   + [Probability and Statistics](#probability-and-statistics)
   + [Neuroscience](#neuroscience)
-  + [Computer Science (Also see [this](https://csdiy.wiki/en/))](#computer-science--also-see--this--https---csdiywiki-en---)
+  + [Computer Science](#computer-science)
   + [Math](#math)
   + [Psychology](#psychology)
   + [Physics](#physics)
@@ -172,7 +172,8 @@ Advance:
 
 
 
-### Computer Science (Also see [this](https://csdiy.wiki/en/))
+### Computer Science 
+(Also see [this](https://csdiy.wiki/en/))
 - [Introduction to Computer Science](https://www.edx.org/cs50) - Harvard CS 50
 - [Structure and Interpretation of Computer Programs](https://cs61a.org/) - UCB CS 61A
 - [Data Structures](http://datastructur.es/) - UCB CS 61B
