@@ -260,6 +260,7 @@ Advance:
 - [MIT CBMM](https://www.youtube.com/@MITCBMM)
 - [Cosyne](https://www.youtube.com/channel/UCzOTbZTHTubFNjANAR33AAg)
 - [CCN](https://www.youtube.com/@cognitivecomputationalneur7223/playlists)
+- [CCN 2017](https://www.youtube.com/@kendrickkay/videos)
 - [Harvard Machine Learning Foundations Group](https://mltheory.org/)
 - [Theoretical Neuroscience](https://www.youtube.com/@theoreticalneuroscience6062/videos)
 - [CogSci](https://www.youtube.com/@cogsciinterdisciplinarystu2501/videos)
@@ -271,7 +272,6 @@ Advance:
 - [MBL Brains, Minds and Machines](https://mbl.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx)
 - [NeurIPS 2022](https://slideslive.com/neurips-2022)
 - [Meaning of Life Symposium](https://www.youtube.com/playlist?list=PLypiXJdtIca7i8IrNye4IenjnUCP9LF35)
-- [CCN 2017](https://www.youtube.com/@kendrickkay/videos)
 - [Dynamic Field Theory](https://www.youtube.com/@dynamicfieldtheory7915/videos)
 - [SFN Annual Meeting](https://neuronline.sfn.org/collection/sfn-annual-meeting-recordings)
 
