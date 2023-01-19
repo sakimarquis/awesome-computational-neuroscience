@@ -20,8 +20,12 @@ An awesome list of computational neuroscience and computational cognitive scienc
 
 ### Computational Cognitive Science
 
+- [Modeling the Mind](http://u.arizona.edu/~bob/web_NSCS344/), UA NSCS 344, Robert Wilson, 2020
+- [Beginners guide to doing experimental cognitive science research](https://vimeo.com/showcase/howtocogsci) - Todd Gureckis
 - [Computational Psychiatry](https://video.ethz.ch/lectures/d-itet/2021/autumn/227-0971-00L/8007a432-d2bc-4836-8371-8d11048b537d.html) - ETH Zurich, Autumn 2021
 - [Computational Cognitive Neuroscience](https://www.youtube.com/playlist?list=PLu02O8xRZn7xtNx03Rlq6xMRdYcQgEpar) - UC Davis, Randall O'Reilly, Spring 2020
+- [Computational cognitive modeling]() - NYU PSYCH-GA 3405.004 / DS-GA 1016.003, Brenden Lake, Spring 2023
+- [Advancing AI through cognitive science](https://brendenlake.github.io/AAI-site/) - NYU PSYCH-GA 3405.001 / DS-GA 3001.014, Brenden Lake, Spring 2019
 
 
 
@@ -82,7 +86,7 @@ An awesome list of computational neuroscience and computational cognitive scienc
 - [Linear Dynamical Systems](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B) - Stanford EE263, Stephen Boyd
 - [Theoretical Minimum](https://theoreticalminimum.com/home) - Leonard Susskind
 - [Complexity Explorer](https://www.complexityexplorer.org/) - Santa Fe Institute
-- [Nonlinear Dynamics and Chaos](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V) - Cornell, Steven Strogatz, Spring 2014
+- [Nonlinear Dynamics and Chaos](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V) - Cornell MAE5790, Steven Strogatz, Spring 2014
 - [Slotine Lectures on Nonlinear Systems](http://web.mit.edu/nsl/www/videos/lectures.html)
 
 
@@ -152,20 +156,29 @@ An awesome list of computational neuroscience and computational cognitive scienc
 
 ## Tutorial
 
-### Reinforcement Learning
-
+- [Probabilistic Models of Cognition](https://probmods.org/) - Noah Goodman & Joshua Tenenbaum
+- [Modeling reinforcement learning](https://speekenbrink-lab.github.io/blog/) - Maarten Speekenbrink
+- [Introduction to Neural Network Models of Cognition](https://com-cog-book.github.io/com-cog-book/intro.html) - Pablo Caceres
+- [Computational Models of Human Social Behavior and Neuroscience](https://shawnrhoads.github.io/gu-psyc-347/) - Shawn A Rhoads
 - [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/) - OpenAI
 - [Data Science](https://trenton3983.github.io/) - Trenton McKinney
-- 
+- [Models of Learning](http://www.hannekedenouden.ruhosting.nl/RLtutorial/Instructions.html) - Hanneke den Ouden
 
 
 
 ## Books
 
+- [Bayesian models of perception and action](https://www.cns.nyu.edu/malab/bayesianbook.html)
 - [Theoretical Modeling for cognitive science and psychology](https://computationalcognitivescience.github.io/lovelace/home)
 - [Algorithms for Decision Making](https://algorithmsbook.com/)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+
+
+
+### Data
+
+- [SenseLab](https://senselab.med.yale.edu/) - The SenseLab Project is a long-term effort to build integrated, multidisciplinary models of neurons and neural systems.
 
 
 
