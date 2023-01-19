@@ -97,12 +97,14 @@ An awesome list of computational neuroscience and computational cognitive scienc
 
 - [BrainPy](https://github.com/brainpy/BrainPy) - A flexible, efficient, and extensible framework for computational neuroscience and brain-inspired computation based on the JIT compilation.
 - [Nengo](https://github.com/hmmlearn/hmmlearn) - The Nengo Brain Maker is a Python package for building, testing, and deploying neural networks.
+- [NeuroGym](https://github.com/neurogym/neurogym) - NeuroGym is a curated collection of neuroscience tasks with a common interface. The goal is to facilitate training of neural network models on neuroscience tasks.
 
 
 
 ### Computational Cognitive Science
 
 - [HDDM](https://hddm.readthedocs.io/en/latest/) - A python toolbox for hierarchical Bayesian parameter estimation of the Drift Diffusion Model (via PyMC).
+- [Computational and Behavioral Modeling](https://payampiray.github.io/cbm) - CBM provides tools for hierarchical Bayesian inference
 
 
 
@@ -157,6 +159,8 @@ An awesome list of computational neuroscience and computational cognitive scienc
 ## Tutorial
 
 - [Probabilistic Models of Cognition](https://probmods.org/) - Noah Goodman & Joshua Tenenbaum
+- [Recurrent neural networks for cognitive neuroscience](https://www.youtube.com/watch?v=k5bQnPtX3wY) - Guangyu Yang
+- [Artificial neural networks for neuroscientists](https://github.com/gyyang/nn-brain) - Guangyu Yang
 - [Modeling reinforcement learning](https://speekenbrink-lab.github.io/blog/) - Maarten Speekenbrink
 - [Introduction to Neural Network Models of Cognition](https://com-cog-book.github.io/com-cog-book/intro.html) - Pablo Caceres
 - [Computational Models of Human Social Behavior and Neuroscience](https://shawnrhoads.github.io/gu-psyc-347/) - Shawn A Rhoads
@@ -173,6 +177,7 @@ An awesome list of computational neuroscience and computational cognitive scienc
 - [Algorithms for Decision Making](https://algorithmsbook.com/)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+- [Statistical Mechanics of Neural Networks](https://www.labxing.com/lab/666/news/677)
 
 
 
