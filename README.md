@@ -9,21 +9,21 @@ An awesome list of computational neuroscience and computational cognitive scienc
 
 ### Neuroscience
 
-- [Neural Data Science](https://www.youtube.com/playlist?list=PL05umP7R6ij3SxudmSWFL_zGh0BMrRdrx)
+- [Neural Data Science](https://www.youtube.com/playlist?list=PL05umP7R6ij3SxudmSWFL_zGh0BMrRdrx) - Tübingen, Philipp Berens, 2021
 
 
 
 ### Machine Learning
 
-- 
-- [Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+- [Artificial Intelligence](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) - MIT 6.034, Patrick Winston, Fall 2010
+- [Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) - Stanford CS224W
 - [机器学习-白板推导系列](https://www.bilibili.com/video/BV1aE411o7qd/)
 
 
 
 ### Computational Cognitive Science
 
-- [Computational Psychiatry](https://video.ethz.ch/lectures/d-itet/2021/autumn/227-0971-00L/8007a432-d2bc-4836-8371-8d11048b537d.html)
+- [Computational Psychiatry](https://video.ethz.ch/lectures/d-itet/2021/autumn/227-0971-00L/8007a432-d2bc-4836-8371-8d11048b537d.html) - ETH Zurich, Autumn 2021
 - 
 
 
@@ -35,6 +35,8 @@ An awesome list of computational neuroscience and computational cognitive scienc
 
 - [Linear Algebra by Gilbert Strang](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
 - [Linear Dynamical Systems](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
+- [Control Theory Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
+- 
 
 ### Psychology
 - [Philosophical Psychology](https://meehl.umn.edu/video)
@@ -61,6 +63,7 @@ An awesome list of computational neuroscience and computational cognitive scienc
 
 ## Lecture
 - [MIT CBMM](https://www.youtube.com/@MITCBMM)
+- [Cosyne Talks](https://www.youtube.com/channel/UCzOTbZTHTubFNjANAR33AAg)
 - [NeurIPS 2022](https://slideslive.com/neurips-2022)
 - [Meaning of Life Symposium](https://www.youtube.com/playlist?list=PLypiXJdtIca7i8IrNye4IenjnUCP9LF35)
 - 
