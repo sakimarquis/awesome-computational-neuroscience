@@ -9,9 +9,38 @@ An awesome list of computational neuroscience and computational cognitive scienc
 
 ## Packages
 
-### Computation
+### AI
 
-[Tianshou](https://tianshou.readthedocs.io/en/stable/index.html) - A reinforcement learning platform based on pure PyTorch.
+- [Tianshou](https://tianshou.readthedocs.io/en/stable/index.html) - A reinforcement learning platform based on pure PyTorch.
+- 
 
 
+
+### Engineering
+
+- [Ray](https://docs.ray.io/en/latest/index.html) - A unified framework for scaling AI and Python applications.
+- [Weights & Biases](https://wandb.ai/site) - Machine learning platform for developers to build better models faster.
+
+
+
+## Lectures
+
+- [NeurIPS 2022](https://slideslive.com/neurips-2022)
+
+
+
+## Summer School
+
+- [Graduate Workshop in Computational Social Science at Santa Fe Institute](https://www.santafe.edu/engage/learn/programs/graduate-workshop-computational-social-science)
+- 
+
+
+
+
+
+
+
+
+
+Lectures: 
 
