@@ -40,31 +40,44 @@ Other useful [Computational neuroscience resources](http://neural-reckoning.org/
 
 ### Machine Learning
 
+Intro:
+
 - [Learning From Data](https://home.work.caltech.edu/telecourse.html) - Caltech CS156, Yaser Abu-Mostafa, 2012
 - [Artificial Intelligence](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) - MIT 6.034, Patrick Winston, Fall 2010
 - [Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/) - NYU DS, Carlos Fernandez-Granda
-- [Deep Learning](https://cds.nyu.edu/deep-learning/) - NYU DS-GA 1008, Yann LeCun & Alfredo Canziani, Spring 2021 
+- [Deep Learning](https://cds.nyu.edu/deep-learning/) - NYU DS-GA 1008, Yann LeCun & Alfredo Canziani, Spring 2021
+- [Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa22/) - UCB CS 188, Fall 2022
+- [Statistical Learning](https://www.edx.org/course/statistical-learning) - edX
 - [Statistical Learning Theory and Applications](https://www.youtube.com/playlist?list=PLyGKBDfnk-iB4Xz_EAJNEgGF5I-6OzRNI) - MIT 9.520/6.860, 2019
-- [Mining Massive Datasets](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV) - Stanford
-- [DLRL Summer School](https://www.youtube.com/playlist?list=PLKlhhkvvU8-aXmPQZNYG_e-2nTd0tJE8v) - CIFAR, 2019 
 - [Neuromatch Academy Deep Learning](https://deeplearning.neuromatch.io/tutorials/intro.html) 
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Yury Kashnitsky
+- [Data Science in Practice](https://github.com/COGS108/Overview) - UCSD COGS 108 
+- [Practical Data Science](http://www.datasciencecourse.org/) - Pat Virtue
+- [Bio-Inspired AI and Optimization](https://www.youtube.com/playlist?list=PLXBbGVSkQJqEtpEGPUCAsyW1eYZwPAoNj) - ASU IEE/CSE 598, Ted Pavlic, Spring 2022
+- [Machine Learning](https://speech.ee.ntu.edu.tw/~hylee/index.php) - NTU, 李宏毅
+- 
+
+Advance:
+
 - [Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) - Stanford CS224W
 - [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) - Coursera, Daphne Koller
 - [Probabilistic Graphical Models](https://www.cs.cmu.edu/~epxing/Class/10708-19/) - CMU 10-708, Eric Xing, Spring 2019
-- [Data Science in Practice](https://github.com/COGS108/Overview) - UCSD COGS 108 
-- [Practical Data Science](http://www.datasciencecourse.org/)
-- [机器学习-白板推导系列](https://www.bilibili.com/video/BV1aE411o7qd/) - Pat Virtue
-- 
+- [Mining Massive Datasets](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV) - Stanford
+- [DLRL Summer School](https://www.youtube.com/playlist?list=PLKlhhkvvU8-aXmPQZNYG_e-2nTd0tJE8v) - CIFAR, 2019 
+- [机器学习-白板推导系列](https://www.bilibili.com/video/BV1aE411o7qd/) 
 
 
 
 ### Probability and Statistics
 
-- [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)
+- [Introduction to Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6) - MIT RES.6-012, John Tsitsiklis, Spring 2018 (BEST!)
+- [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) - Richard McElreath
   - [Statistical Rethinking with PyTorch and Pyro](https://fehiepsi.github.io/rethinking-pyro/)
+- [Convex Optimization](https://www.youtube.com/playlist?list=PL3940DD956CDF0622) - Stanford EE 364A, Stephen Boyd
+  - [CVX Book](https://web.stanford.edu/~boyd/cvxbook)
 
- 
+- [Causal Diagrams](https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your) - edX
+- [High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html) - UCI, Roman Vershynin
 
 
 
@@ -80,7 +93,7 @@ Other useful [Computational neuroscience resources](http://neural-reckoning.org/
 
 
 
-### Computer Science
+### Computer Science (Also see [this](https://csdiy.wiki/en/))
 - [Introduction to Computer Science](https://www.edx.org/cs50) - Harvard CS 50
 - [Structure and Interpretation of Computer Programs](https://cs61a.org/) - UCB CS 61A
 - [Data Structures](http://datastructur.es/) - UCB CS 61B
@@ -109,7 +122,7 @@ Other useful [Computational neuroscience resources](http://neural-reckoning.org/
 - [Theoretical Minimum](https://theoreticalminimum.com/home) - Leonard Susskind
 - [Complexity Explorer](https://www.complexityexplorer.org/) - Santa Fe Institute
 - [Nonlinear Dynamics and Chaos](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V) - Cornell MAE5790, Steven Strogatz, Spring 2014
-- [Slotine Lectures on Nonlinear Systems](http://web.mit.edu/nsl/www/videos/lectures.html)
+- [Nonlinear Systems](http://web.mit.edu/nsl/www/videos/lectures.html) - MIT, Jean-Jacques Slotine
 
 
 
@@ -185,6 +198,17 @@ Other useful [Computational neuroscience resources](http://neural-reckoning.org/
 
 Other tutorials see [Online Resources for Systems and Computational Neuroscience](https://www.simonsfoundation.org/collaborations/global-brain/online-resources-for-systems-and-computational-neuroscience/)
 
+Intro:
+
+- [Python Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas
+- [Reproducible Data Analysis in Jupyter](https://www.youtube.com/playlist?list=PLYCpMb24GpOC704uO9svUrihl-HY1tTJJ) - Jake Vanderplas
+- [RBootcamp](https://r-bootcamp.netlify.app/)
+- [Data Science](https://trenton3983.github.io/) - Trenton McKinney
+- [Learning Machine](https://rentruewang.github.io/learning-machine/intro.html) - RenChu Wang
+- [Models of Learning](http://www.hannekedenouden.ruhosting.nl/RLtutorial/Instructions.html) - Hanneke den Ouden
+
+Advance:
+
 - [Probabilistic Models of Cognition](https://probmods.org/) - Noah Goodman & Joshua Tenenbaum
 - [Recurrent neural networks for cognitive neuroscience](https://www.youtube.com/watch?v=k5bQnPtX3wY) - Guangyu Yang
 - [Artificial neural networks for neuroscientists](https://github.com/gyyang/nn-brain) - Guangyu Yang
@@ -194,16 +218,12 @@ Other tutorials see [Online Resources for Systems and Computational Neuroscience
 - [Introduction to Neural Network Models of Cognition](https://com-cog-book.github.io/com-cog-book/intro.html) - Pablo Caceres
 - [Computational Models of Human Social Behavior and Neuroscience](https://shawnrhoads.github.io/gu-psyc-347/) - Shawn A Rhoads
 - [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/) - OpenAI
-- [Data Science](https://trenton3983.github.io/) - Trenton McKinney
-- [Models of Learning](http://www.hannekedenouden.ruhosting.nl/RLtutorial/Instructions.html) - Hanneke den Ouden
 - [Linear Algebra for Theoretical Neuroscience](http://www.columbia.edu/cu/neurotheory/Ken/math-notes/) - Ken Miller
 - [Modeling in Neuroscience](http://compneurosci.com/wiki/index.php?title=CoSMo_2018) - Gunnar Blohm
-- [Python Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas
-- [Reproducible Data Analysis in Jupyter](https://www.youtube.com/playlist?list=PLYCpMb24GpOC704uO9svUrihl-HY1tTJJ) - Jake Vanderplas
 - [Data Skills for Neuroscientists](https://neuronline.sfn.org/scientific-research/data-science-and-data-skills-for-neuroscientists) - SfN
-- [RBootcamp](https://r-bootcamp.netlify.app/)
 - [Statistical tools for high-throughput data analysis](http://www.sthda.com/english/)
 - [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html)
+- [Kalman Filter Tutorial](https://www.kalmanfilter.net/default.aspx)
 
 
 
@@ -219,10 +239,14 @@ Other tutorials see [Online Resources for Systems and Computational Neuroscience
 - [Modeling Neural Circuits Made Simple](https://github.com/RobertRosenbaum/ModelingNeuralCircuits)
 - [Network Science](http://networksciencebook.com/)
 - [Introduction to Data Science](http://rafalab.dfci.harvard.edu/dsbook/)
+- [An Introduction to Statistical Learning](https://www.statlearning.com/)
+  - [ISLR tidymodels labs](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html)
+
+- [Probabilistic Machine Learning](https://probml.github.io/pml-book/)
 
 
 
-### Data
+## Data
 
 - [SenseLab](https://senselab.med.yale.edu/) - The SenseLab Project is a long-term effort to build integrated, multidisciplinary models of neurons and neural systems.
 - [CRCNS](https://crcns.org/data-sets) - Collaborative Research in Computational Neuroscience: Data sharing
