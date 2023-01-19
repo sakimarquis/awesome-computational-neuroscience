@@ -21,6 +21,11 @@ An awesome list of computational neuroscience and computational cognitive scienc
 
 
 
+### Computational Cognitive Science
+
+- [Computational Psychiatry](https://video.ethz.ch/lectures/d-itet/2021/autumn/227-0971-00L/8007a432-d2bc-4836-8371-8d11048b537d.html)
+- 
+
 
 
 ### Computer Science
@@ -57,6 +62,7 @@ An awesome list of computational neuroscience and computational cognitive scienc
 ## Lecture
 - [MIT CBMM](https://www.youtube.com/@MITCBMM)
 - [NeurIPS 2022](https://slideslive.com/neurips-2022)
+- [Meaning of Life Symposium](https://www.youtube.com/playlist?list=PLypiXJdtIca7i8IrNye4IenjnUCP9LF35)
 - 
 
 
@@ -65,13 +71,4 @@ An awesome list of computational neuroscience and computational cognitive scienc
 - [Graduate Workshop in Computational Social Science at Santa Fe Institute](https://www.santafe.edu/engage/learn/programs/graduate-workshop-computational-social-science)
 - 
 
-
-
-
-
-
-
-
-
-Lectures: 
 
