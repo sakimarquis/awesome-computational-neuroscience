@@ -208,10 +208,6 @@ Advance:
 
 
 
-
-
-
-
 ### Engineering
 - [Ray](https://docs.ray.io/en/latest/index.html) - A unified framework for scaling AI and Python applications.
 - [Weights & Biases](https://wandb.ai/site) - Machine learning platform for developers to build better models faster.
@@ -248,7 +244,8 @@ Advance:
 ## Summer School
 - [Cold Spring Harbor Asia](http://www.csh-asia.org/)
 - [Graduate Workshop in Computational Social Science at Santa Fe Institute](https://www.santafe.edu/engage/learn/programs/graduate-workshop-computational-social-science)
-- 
+
+
 
 
 
@@ -337,7 +334,6 @@ Advance:
 - [Open fMRI](https://openfmri.org/)
 - [NCBI](https://www.ncbi.nlm.nih.gov/)
 - [UK BioBank](https://www.ukbiobank.ac.uk/)
-- 
 
 
 
