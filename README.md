@@ -85,12 +85,13 @@ Advance:
 - [Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/index.html) - Stanford CS224N, Christopher Manning
 - [Deep Learning](https://cds.nyu.edu/deep-learning/) - NYU DS-GA 1008, Yann LeCun & Alfredo Canziani, Spring 2021
 - [Neuromatch Academy Deep Learning](https://deeplearning.neuromatch.io/tutorials/intro.html) 
-- [Representation Learning](https://sites.google.com/view/ift-6135-h2020/lectures) - MILA IFT 6135
+- [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
 
 Advance:
 
 - [Analyses of Deep Learning](https://stats385.github.io/) - Stanford Stats 385, Fall 2017
 - [Foundations of Deep Learning](http://www.cs.umd.edu/class/fall2020/cmsc828W/) - UMD CMSC 828W, Soheil Feizi, Fall 2020
+- [Representation Learning](https://sites.google.com/view/ift-6135-h2020/lectures) - MILA IFT 6135
 
 
 
@@ -130,11 +131,16 @@ Advance:
 
 - [The Human Brain](https://www.youtube.com/playlist?list=PLyGKBDfnk-iAQx4Kw9JeVqspbg77sfAK0) - MIT 9.11, Nancy Kanwisher, Spring 2018 
 - [Neuroscience and Neuroimaging](https://www.coursera.org/specializations/computational-neuroscience) - Coursera
+- [Intro to fMRI class](https://www.youtube.com/playlist?list=PLDcxb_BvQtAoA2ZPmvL176hJmNf8c5ABB) - Rajeev Raizada
+- [fMRI Bootcamp](https://cbmm.mit.edu/fmri-bootcamp)
+- [NeuroHackademy](https://neurohackademy.org/)
 - [Human Behavioral Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D) - Stanford, Robert Sapolsky
 - [Neural Data Science](https://www.youtube.com/playlist?list=PL05umP7R6ij3SxudmSWFL_zGh0BMrRdrx) - Tübingen, Philipp Berens, 2021
 - [Introduction to Brain and Consciousness](https://www.youtube.com/playlist?list=PLw86EyOzTC2O-ANg5uj2yOAEqmN2kSm0d)
 - [Grossbergian Neuroscience](https://www.youtube.com/playlist?list=PLTEtXsHFKZTsxmKyVn69ZmLBxghBH1tNR) - NeuroLogos
 - [Dynamic Data Visualization Workshop](https://dynamicdataviz.github.io/) - An NIMH-hosted workshop on principles, tools, and approaches to constructing effective dynamic data visualizations
+- [Introduction to ERPs](https://www.youtube.com/playlist?list=PLXKXgcv8muTKbyGsFVQSIeF5InZfrkt2M) - Steve Luck
+- [Analyzing Neural Time Series Data](https://www.youtube.com/@mikexcohen1/playlists) - Mike X Cohen
 
 
 
@@ -254,12 +260,19 @@ Intro:
 
 - [Python Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas
 - [Reproducible Data Analysis in Jupyter](https://www.youtube.com/playlist?list=PLYCpMb24GpOC704uO9svUrihl-HY1tTJJ) - Jake Vanderplas
+- [DartBrains](https://dartbrains.org/content/intro.html)
 - [RBootcamp](https://r-bootcamp.netlify.app/)
 - [Data Science](https://trenton3983.github.io/) - Trenton McKinney
 - [Learning Machine](https://rentruewang.github.io/learning-machine/intro.html) - RenChu Wang
 - [Models of Learning](http://www.hannekedenouden.ruhosting.nl/RLtutorial/Instructions.html) - Hanneke den Ouden
 - [Bayesian Model](https://www.sumsar.net/blog/2015/11/a-bayesian-model-to-calculate-whether-my-wife-is-pregnant/) - Rasmus Bååth
 - [PyTorch - Python Deep Learning](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) - deeplizard
+- [Andy’s Brain Book](https://andysbrainbook.readthedocs.io/en/latest/index.html)
+- [BrainIAK Tutorial](https://github.com/brainiak/brainiak-tutorials/wiki/Resources)
+- [Python and Matlab programs for fMRI](https://www2.bcs.rochester.edu/sites/raizada/fmri-matlab.html)
+- [RSA Workshop](https://colab.research.google.com/drive/1UEtFr-oJisRzl8BmzbNdMZZ7-Of0gLcH?usp=sharing#scrollTo=WCGDnFNYIDGT)
+- [Quantitative Neuroscience](https://github.com/BlohmLab/NSCI801-QuantNeuro)
+- [Python for the practicing neuroscientist](https://elifesciences.org/labs/f779833b/python-for-the-practicing-neuroscientist-an-online-educational-resource)
 
 Advance:
 
@@ -281,6 +294,9 @@ Advance:
 - [Bayesian Deep Learning and Probabilistic Model Construction](https://www.youtube.com/watch?v=E1qhGw8QxqY)
 - [Deep Reinforcement Learning with Pytorch](https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch)
 - [Basic Examples for Reinforcement Learning](https://github.com/ucla-rlcourse/RLexample)
+- [Statistical models for neural data](https://www.youtube.com/watch?v=NFeGW5ljUoI&list=PL9YzmV9joj3FIkQwVcfj1VsLV_pj6Cwcr&index=4)
+- [M/EEG analysis with MNE](https://www.youtube.com/watch?v=t-twhNqgfSY)
+- [Neuroimaging and Data Science](http://neuroimaging-data-science.org/root.html)
 
 
 
@@ -315,9 +331,18 @@ Advance:
 
 - [SenseLab](https://senselab.med.yale.edu/) - The SenseLab Project is a long-term effort to build integrated, multidisciplinary models of neurons and neural systems.
 - [CRCNS](https://crcns.org/data-sets) - Collaborative Research in Computational Neuroscience: Data sharing
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
+- [Human Connectom](https://www.humanconnectome.org/)
+- [Open Neuro](https://openneuro.org/)
+- [Open fMRI](https://openfmri.org/)
+- [NCBI](https://www.ncbi.nlm.nih.gov/)
+- [UK BioBank](https://www.ukbiobank.ac.uk/)
+- 
 
 
 
 ## Podcast
 
 - [Lex Fridman Podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
+- [Brain Inspired](https://braininspired.co/)
+- [TalkRL](https://www.talkrl.com/)
