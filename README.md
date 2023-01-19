@@ -5,6 +5,34 @@ Other useful [Computational neuroscience resources](http://neural-reckoning.org/
 
 "DISCLAIMER: The contents of this list reflect my own personal interests and should not be taken as a recommendation or endorsement of any kind. Use of any information or resources provided in this list is at your own risk."
 
+* [Course](#course)
+  + [Computational Neuroscience](#computational-neuroscience)
+  + [Computational Cognitive Science](#computational-cognitive-science)
+  + [Machine Learning](#machine-learning)
+  + [Deep Learning](#deep-learning)
+  + [Reinforcement Learning](#reinforcement-learning)
+  + [Probability and Statistics](#probability-and-statistics)
+  + [Neuroscience](#neuroscience)
+  + [Computer Science (Also see [this](https://csdiy.wiki/en/))](#computer-science--also-see--this--https---csdiywiki-en---)
+  + [Math](#math)
+  + [Psychology](#psychology)
+  + [Physics](#physics)
+* [Package](#package)
+  + [Computational Neuroscience](#computational-neuroscience-1)
+  + [Computational Cognitive Science](#computational-cognitive-science-1)
+  + [Machine Learning](#machine-learning-1)
+  + [Engineering](#engineering)
+  + [Math](#math-1)
+* [Talk](#talk)
+* [Summer School](#summer-school)
+* [Tutorial](#tutorial)
+* [Books](#books)
+* [Data](#data)
+* [Podcast](#podcast)
+* [Blog](#blog)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 ## Course
