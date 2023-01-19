@@ -29,17 +29,17 @@ An awesome list of computational neuroscience and computational cognitive scienc
 
 
 ### Computer Science
-- [Theory of Computation](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
+- [Theory of Computation](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY) - MIT 18.404J, Michael Sipser, Fall 2020
 
 ### Math
 
-- [Linear Algebra by Gilbert Strang](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
-- [Linear Dynamical Systems](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
-- [Control Theory Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
+- [Linear Algebra by Gilbert Strang](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) - MIT 18.06, Gilbert Strang, Spring 2005
+- [Linear Dynamical Systems](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B) - Stanford EE263, Stephen Boyd
+- [Control Theory Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m) - Steve Brunton
 - 
 
 ### Psychology
-- [Philosophical Psychology](https://meehl.umn.edu/video)
+- [Philosophical Psychology](https://meehl.umn.edu/video) - UMN, Paul Meehl, Winter 1989
 
 
 
