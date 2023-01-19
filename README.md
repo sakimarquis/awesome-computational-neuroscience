@@ -311,6 +311,8 @@ Intro:
 - [Machine Learning Mastery](https://machinelearningmastery.com/)
 - [Essential Math for Data Science](https://hadrienj.github.io/)
 - [What does MEG measure?](https://www.nature.com/scitable/blog/brain-metrics/) :sob:
+- [Learn Shell](https://www.learnshell.org/)
+- [Interactive Vim tutorial](https://www.openvim.com/)
 
 Advance:
 
