@@ -344,6 +344,7 @@ Advance:
 - [Pillow Lab Tutorials](https://pillowlab.wordpress.com/)
 - [The Good Research Code Handbook](https://goodresearch.dev/)
 - [Low-rank RNNs in ten minutes](https://adrian-valente.github.io/2022/06/01/low-rank-summary.html)
+- [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)
 
 
 
