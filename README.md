@@ -163,7 +163,6 @@ Advance:
 - [Neuroscience and Neuroimaging](https://www.coursera.org/specializations/computational-neuroscience) - Coursera
 - [Intro to fMRI class](https://www.youtube.com/playlist?list=PLDcxb_BvQtAoA2ZPmvL176hJmNf8c5ABB) - Rajeev Raizada
 - [fMRI Bootcamp](https://cbmm.mit.edu/fmri-bootcamp)
-- [NeuroHackademy](https://neurohackademy.org/)
 - [Human Behavioral Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D) - Stanford, Robert Sapolsky
 - [Neural Data Science](https://www.youtube.com/playlist?list=PL05umP7R6ij3SxudmSWFL_zGh0BMrRdrx) - Tübingen, Philipp Berens, 2021
 - [Introduction to Brain and Consciousness](https://www.youtube.com/playlist?list=PLw86EyOzTC2O-ANg5uj2yOAEqmN2kSm0d)
@@ -171,6 +170,7 @@ Advance:
 - [Dynamic Data Visualization Workshop](https://dynamicdataviz.github.io/) - An NIMH-hosted workshop on principles, tools, and approaches to constructing effective dynamic data visualizations
 - [Introduction to ERPs](https://www.youtube.com/playlist?list=PLXKXgcv8muTKbyGsFVQSIeF5InZfrkt2M) - Steve Luck
 - [Analyzing Neural Time Series Data](https://www.youtube.com/@mikexcohen1/playlists) - Mike X Cohen
+- [NIH fMRI Courses](https://fmrif.nimh.nih.gov/public/)
 
 
 
@@ -281,8 +281,7 @@ Advance:
 - [Marine Biological Laboratory](https://www.mbl.edu/education/advanced-research-training-courses/course-offerings)
 - [Cold Spring Harbor Asia](http://www.csh-asia.org/)
 - [Graduate Workshop in Computational Social Science at Santa Fe Institute](https://www.santafe.edu/engage/learn/programs/graduate-workshop-computational-social-science)
-
-
+- [NeuroHackademy](https://neurohackademy.org/)
 
 
 
@@ -342,9 +341,8 @@ Advance:
 - [The Art and Science of Modeling Human Decision-Making](https://github.com/marcelbinz/The-Art-and-Science-of-Modeling-Human-Decision-Making)
 - [NivStan](https://nivlab.github.io/nivstan/) - Recipes for cognitive modeling using Stan
 - [Pillow Lab Tutorials](https://pillowlab.wordpress.com/)
-- [The Good Research Code Handbook](https://goodresearch.dev/)
-- [Low-rank RNNs in ten minutes](https://adrian-valente.github.io/2022/06/01/low-rank-summary.html)
-- [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)
+- [MAPs](https://medicine.yale.edu/psychiatry/education/map/) - Methods And Primers for Computational Psychiatry and Neuroeconomics
+- [Python脑电数据处理中文手册](https://github.com/ZitongLu1996/Python-EEG-Handbook)
 
 
 
@@ -409,6 +407,7 @@ Advance:
 - [Sorta Insightful](https://www.alexirpan.com/)
 - [Paul Graham](http://www.paulgraham.com/articles.html)
 - [Severely Theoretical | Computational neuroscience and machine learning](https://severelytheoretical.wordpress.com/)
+- [MVPA Meanderings](https://mvpa.blogspot.com/)
 - [Natural Rationality](https://naturalrationality.blogspot.com/)
 - [Bradley C. Love](https://bradlove.org/blog/)
 - [neurosopher](https://adrian-valente.github.io/blog.html)
