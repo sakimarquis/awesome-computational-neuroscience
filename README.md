@@ -156,6 +156,7 @@ Other tutorials see [Online Resources for Systems and Computational Neuroscience
 
 Intro:
 
+- [MIT fMRI Bootcamp](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDVpUGSR_GlDmQrZOS0Lk6k)
 - [Python Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas
 - [Reproducible Data Analysis in Jupyter](https://www.youtube.com/playlist?list=PLYCpMb24GpOC704uO9svUrihl-HY1tTJJ) - Jake Vanderplas
 - [DartBrains](https://dartbrains.org/content/intro.html)
