@@ -212,6 +212,7 @@ Advance:
 - [Pillow Lab Tutorials](https://pillowlab.wordpress.com/)
 - [MAPs](https://medicine.yale.edu/psychiatry/education/map/) - Methods And Primers for Computational Psychiatry and Neuroeconomics
 - [Python脑电数据处理中文手册](https://github.com/ZitongLu1996/Python-EEG-Handbook)
+- [Geometric constraints on human brain function](https://twitter.com/SaadJbabdi/status/1668597401299369986)
 
 
 
