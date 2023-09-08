@@ -238,6 +238,7 @@ Advance:
 - [CRCNS](https://crcns.org/data-sets) - Collaborative Research in Computational Neuroscience: Data sharing
 - [Natural Scenes Dataset](http://naturalscenesdataset.org/): a large-scale fMRI dataset
 - [Open dataset of theory of mind reasoning in early to middle childhood](https://psyarxiv.com/gczp9/)
+- [Moral Machine](https://osf.io/3hvt2/)
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
 - [Human Connectom](https://www.humanconnectome.org/)
 - [Open Neuro](https://openneuro.org/)
