@@ -65,6 +65,7 @@ Advance:
 - [Mobile Robotics: Methods and Algorithms](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public) - University of Michigan NA 568/EECS 568/ROB 530
 - [Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/) - UCB CS 287, Pieter Abbeel, Fall 2019
 - [DLRL Summer School](https://www.youtube.com/playlist?list=PLKlhhkvvU8-aXmPQZNYG_e-2nTd0tJE8v) - CIFAR, 2019 
+- [强化学习的数学原理](https://www.bilibili.com/video/BV1sd4y167NS/) - 西湖大学, 赵世钰, 2022
 
 
 
