@@ -168,6 +168,7 @@ Intro:
 - [Learn Shell](https://www.learnshell.org/)
 - [Interactive Vim tutorial](https://www.openvim.com/)
 - [Advanced Cognitive Modeling Notes](https://fusaroli.github.io/AdvancedCognitiveModeling2023/)
+- [Better Markov Chain](https://elevanth.org/blog/2017/11/28/build-a-better-markov-chain/)
 
 Advance:
 
