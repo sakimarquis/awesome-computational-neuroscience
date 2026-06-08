@@ -106,6 +106,7 @@ Other useful [Computational neuroscience resources](http://neural-reckoning.org/
 - [Tianshou](https://tianshou.readthedocs.io/en/stable/index.html) - A reinforcement learning platform based on pure PyTorch.
 - [Variational Bayesian Monte Carlo](https://github.com/acerbilab/vbmc) - VBMC is an approximate inference method designed to fit and evaluate computational models with a limited budget of potentially noisy likelihood evaluations.
 - [BADS](https://github.com/acerbilab/bads) - BADS is a fast hybrid Bayesian optimization algorithm designed to solve difficult optimization problems, in particular related to fitting computational models
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments in multi-agent ML workflows. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 
 
